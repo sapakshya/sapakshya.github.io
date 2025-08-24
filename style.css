@@ -1,0 +1,38 @@
+<html>
+<head>
+	<style>
+		p {
+		 color: darkred;
+		}
+		#green {
+			color: limegreen;
+		}
+		#blue{
+			color: darkblue;
+		}
+		.yellow{
+			color: yellowgreen;
+		}
+	</style>
+</head>
+<body>
+	<h1 style="color: hotpink;">CSS Practice</h1>
+	<p>
+	Hi, i am sapakshya. hello how are u? 
+	A paragraph typically begins with a topic sentence that introduces the main idea. This is followed by supporting sentences that elaborate on the topic, providing details, examples, or explanations. Finally, a concluding sentence wraps up the discussion, reinforcing the main point. For example:"The importance of regular exercise cannot be overstated. Engaging in physical activity helps maintain a healthy weight, reduces the risk of chronic diseases, and improves mental health. Studies show that individuals who exercise regularly experience lower levels of stress and anxiety. Additionally, exercise can enhance sleep quality and boost overall energy levels. In conclusion, incorporating regular exercise into one’s routine is essential for achieving a healthier lifestyle." Inner planets are those planets which are nearer to sun as compared to others. Secondly their relief constitution includes rocks and metals. These planets are known as terrestrial planets also. Namely these planets are; Mercury, Venus, Earth & Mars.
+</p>
+
+<p id="green">
+	TSun is source of light, heat, energy and life on our Earth. Normally looking pale, this spherical ball of fire has 13 lakh multiples more volume than that of Earth and 3.25 lakh times more weight. Pressure of gaseous material on its centre is 200 billion multiples more than the pressure of air, Earth experiences while density of gases is 150 times more than that of water. Temperature of sun is 50 lakh degrees Kelvin (one Kelvin is equal to one degree on Celsius scale).Gravity of Sun is 28 times more than that of earth and black spots visible on sun are actually very powerful magnetic regions. Each magnetic regions of sun is more than 10 thousand times more powerful than magnetic power of Earth. Actual size of each black spot may be lakhs of square kilometers. Temperature at photosphere of sun is only 6000° Kelvin while ends of chromospheres experience it 10 thousand degree.
+</p>
+
+<p id="blue">
+	 Hydrogen in form of Plasma turns into Helium at this temperature. This fusion gives birth to energy. The quantum of such produced energy may be imagined from the fact that fusion produced energy in one second is more than as much mankind has used on Earth till date. This fusion is continuous process on the surface of Sun.At corona this temperature varies from 10 lakh Kelvin to 50 lakh Kelvin. Continuous winds blow at the surface of sun at speed of 800 to 900 kilometer per second and these may prove dangerous for Earth at times. These winds have their fatal effect on Ionosphere. Solar storms disturb communication system on Earth. Many a times, power grids get destroyed or seized because of disturbance at the surface of Sun.
+</p>
+
+<p class="yellow">	
+	This is seventh planet of our Solar System and third largest planet. Its size is 63 multiples bigger than earth but in weight it is only 14.5 multiples than that of Earth. Constituted of gases, Uranus has coldest atmosphere as compared to all the planets and has an average temperature of 223°C. Many layers of clouds are found on Uranus. Higher cloud formation consists of Methane gas while lower formation consists of water. Speed of winds on this planet is 250 meters per second while it is tilted at 97.77° on its axis. Revolving round sun in anti-clockwise direction, it completes one revolution in 84 years while for completing one rotation around its axis, it takes 10 hours and 48 minutes.
+</p>
+
+</body>
+</html>
